@@ -1,4 +1,4 @@
 # Demo
 Basic git commands demo
 <br>
-Author - Anuja Deepak Shinde
+Author - Anuja Deepak Shinde (Git-Demo)
